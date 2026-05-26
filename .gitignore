@@ -27,3 +27,4 @@ dist-ssr
 public/assets/*
 !public/assets/images/
 .cursor/
+.vercel
